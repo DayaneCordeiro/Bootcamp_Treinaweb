@@ -2,7 +2,7 @@
 
 namespace App\Modelo;
 
-class Diarista
+class Cliente
 {
     public $name;
 }
